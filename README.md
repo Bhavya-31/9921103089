@@ -124,7 +124,7 @@ The interactive dashboard provides the following insights:
 ---
 
 ## **Contributors**
-- **Your Name** Bhavya_31
+- **Your Name** Bhavya-31
   
 
 ---
